@@ -7,13 +7,15 @@ Fully typed. Should work pretty well :)
 
 # Installation
 Just install it
-```npm install partitionby```
+```npm install partition-by```
 
 
 # Example
 
 You can use the function and specify any kind of partition function that is used to partition the given array
 ```typescript
+
+import { partitionBy } from 'partition-by'
 enum ExampleEnum {
   ENUM_A = 'a',
   ENUM_B = 'b',
