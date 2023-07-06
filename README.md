@@ -13,8 +13,7 @@ Just install it
 # Example
 
 You can use the function and specify any kind of partition function that is used to partition the given array
-```
-
+```typescript
 enum ExampleEnum {
   ENUM_A = 'a',
   ENUM_B = 'b',
